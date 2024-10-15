@@ -44,4 +44,5 @@ and transactions.market_code="Mark001";`
 ## Data Analysis
 
 1.Delhi NCR is the strongest market, both in terms of revenue and sales quantity, but there is a huge dependency on Electricalsara Stores as a customer and Prod318 as a product.
+
 2.Mumbai and Ahmedabad are secondary markets that could potentially be further developed, given their relatively strong performance compared to other regions.
